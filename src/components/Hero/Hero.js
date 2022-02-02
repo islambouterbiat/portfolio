@@ -16,9 +16,11 @@ const Hero = () => (
         Islam Portfolio
       </SectionTitle>
       <SectionText>
-        I'm a full-stack developer who specializes in javascript tachnologies
-        across the whole stack (react.js, node.js, express). experience building
-        complete web applications with backend API systems
+        I'm a full-stack developer with +6 years of experience,my main focus is
+        to translate the customer needs to code, It amazes me to work with a
+        creative team who is willing to think outside of the box, solves real
+        business problems, pushes the boundaries and keps growing up the
+        business, and eventually of course, satisfies the customer.
       </SectionText>
       <Button
         onClick={() =>

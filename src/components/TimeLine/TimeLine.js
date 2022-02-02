@@ -67,7 +67,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-        ## how i just started learning something .. my big milestones ##
+        {/* ## how i just started learning something .. my big milestones ## */}
       </SectionText>
       <CarouselContainer ref={carouselRef} onScroll={handleScroll}>
         <>
@@ -136,7 +136,7 @@ const Timeline = () => {
           </CarouselButton>
         ))}
       </CarouselButtons>
-      <SectionDivider />
+      {/* <SectionDivider /> */}
     </Section>
   );
 };

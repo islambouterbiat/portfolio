@@ -31,16 +31,16 @@ const Footer = () => {
       </LinkList>
       <SocialIconsContainer>
         <CompanyContainer>
-          <Slogan>My Slogan ###</Slogan>
+          <Slogan>📝 Writing Words , Writing Code</Slogan>
         </CompanyContainer>
         <SocialContainer>
-          <SocialIcons href="https://github.com">
+          <SocialIcons href="https://github.com/islambouterbiat">
             <AiFillGithub size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://linkedin.com">
+          <SocialIcons href="https://linkedin.com/islambouterbiat">
             <AiFillLinkedin size="3rem" />
           </SocialIcons>
-          <SocialIcons href="https://instagram.com">
+          <SocialIcons href="https://instagram.com/islam_bouterbiat">
             <AiFillInstagram size="3rem" />
           </SocialIcons>
         </SocialContainer>
