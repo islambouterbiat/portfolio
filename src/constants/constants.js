@@ -22,7 +22,7 @@ export const projects = [
     title: "Big Mind",
     description:
       "Big Mind.. just like Facebook, A Social Media App, that combines the biggest 3 companies: Facebook, Amazon, and Netflix and much more",
-    image: "/images/3.png",
+    image: "/images/3.jpg",
     tags: ["React", "Redux", "Material UI", "Firebase", "TypeScripts"],
     visit: "https://big-mind-community.web.app/",
     id: 2,
@@ -31,7 +31,7 @@ export const projects = [
     title: "GPT-3 OpenAI",
     description:
       "Modern UI/UX for GPT-3 OpenAI website, the third-generation language prediction model in the GPT-n series created by OpenAI",
-    image: "/images/4.png",
+    image: "/images/4.jpg",
     tags: ["React", "Material UI"],
     source: "https://github.com/islambouterbiat/gpt3",
     visit: "https://gracious-leakey-4e3ba8.netlify.app/",
@@ -41,7 +41,7 @@ export const projects = [
     title: "Expense Tracker App",
     description:
       "Save time on expense reports with everything in one place & approve with just one click. Stop losing receipts and have employees upload them directly into your expenses app",
-    image: "/images/5.png",
+    image: "/images/5.jpg",
     tags: ["React", "Context API", "Material UI", "Speechly"],
     source: "https://github.com/islambouterbiat/expense_tracker",
     visit: "https://compassionate-raman-4b9276.netlify.app/",
@@ -50,7 +50,7 @@ export const projects = [
   {
     title: "Modern restaurant landing page",
     description: "A great restaurant modern UI/UX website landing page",
-    image: "/images/6.png",
+    image: "/images/6.jpg",
     tags: ["React"],
     source: "https://github.com/islambouterbiat/restaurent_ui",
     visit: "https://condescending-lamarr-4dede5.netlify.app/",
