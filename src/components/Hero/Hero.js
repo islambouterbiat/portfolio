@@ -18,6 +18,7 @@ const Hero = () => (
           height={200}
           width={200}
           alt="Islam Bouterbiat photo"
+          className="profile_pic"
         />
       </PhotoDiv>
       <SectionTitle main center>
