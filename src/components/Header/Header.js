@@ -50,7 +50,7 @@ const Header = () => (
       <SocialIcons href="https://github.com/islambouterbiat">
         <AiFillGithub size="3rem" />
       </SocialIcons>
-      <SocialIcons href="https://linkedin.com/islambouterbiat">
+      <SocialIcons href="https://linkedin.com/in/islambouterbiat">
         <AiFillLinkedin size="3rem" />
       </SocialIcons>
       <SocialIcons href="https://instagram.com/islam_bouterbiat">

@@ -14,6 +14,10 @@ const Home = () => {
       <Head>
         <title>Islam BTR's Portfolio</title>
         <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+        <meta
+          name="description"
+          content="Bouterbiat islam, full stack developer portfolio"
+        />
       </Head>
       <Section grid>
         <Hero />
